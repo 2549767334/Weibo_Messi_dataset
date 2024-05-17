@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4f862fcf9e6589c625dcabe6b26ce5e2de5d01ba7779b488657dc663aff0ac0b
-size 402
+# Messi-Weibo-dataset
+About the dataset of paper: "".
+
+#IEEE TCSS, Doi: ....
+
+### Dataset Contents:
+- Annotated_data.xlsx: This Excel file contains the manually annotated data.
+- Data-1208-0330.xlsx: This Excel file represents the raw data collected from Weibo.
+- res_of_stance_detection.xlsx: This Excel file contains the results of stance detection analysis performed on the collected data.
